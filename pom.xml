@@ -55,7 +55,7 @@
         <mssql.jdbc.version>6.2.1.jre8</mssql.jdbc.version>
         <mysql.connector.java.version>5.1.44</mysql.connector.java.version>
         <ojdbc6.version>11.2.0.3</ojdbc6.version>
-        <postgresql.version>9.4-1202-jdbc42</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <jaybird.jdk18.version>2.2.12</jaybird.jdk18.version>
     </properties>
 
