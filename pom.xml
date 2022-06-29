@@ -46,7 +46,7 @@
 
         <httpclient.version>4.5</httpclient.version>
 
-        <commons.email.version>1.4</commons.email.version>
+        <commons.email.version>1.5</commons.email.version>
 
         <liquibase.core.version>3.5.3</liquibase.core.version>
 
