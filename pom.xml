@@ -6,7 +6,7 @@
     <artifactId>jau</artifactId>
     <name>jau</name>
     <version>1.0.4</version>
-    <packaging>pom</packaging>
+    <packaging>pom2</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
